@@ -12,6 +12,7 @@ This repository contains the physical design artifacts and implementation log fo
 ## Repository Contents
 
 * **`picoRV32 Openlane2 Project.pdf`**: Comprehensive physical design report and timing analysis.
-* **`config.json`**: OpenLane 2 configuration settings (e.g., target density, clock constraints).
+* **`config.json`**: OpenLane 2 configuration settings (e.g., target density, clock constraints) at 100mhz.
 * **`/reports/`**: Selected OpenSTA timing logs and Yosys synthesis summaries.
 * **`/images/`**: OpenROAD GUI routing heatmaps and synth_strategy screenshots.
+* **`/metrics-at-100mhz/`**: Full report on timing and design metrics when design was at 100mhz.
